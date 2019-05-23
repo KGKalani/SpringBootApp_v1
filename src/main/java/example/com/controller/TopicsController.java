@@ -1,4 +1,4 @@
-package example.com;
+package example.com.controller;
 
 import example.com.model.Topic;
 import example.com.service.TopicService;
