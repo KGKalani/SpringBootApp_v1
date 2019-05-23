@@ -23,9 +23,7 @@ How to execute the application.
 						"id": "1",
 						"name": "Bean",
 						"description": "Vegitables"
-				}
-						
-
-  > To delete data, use this url -: localhost:8080/topics/{id}
+				}					
+    > To delete data, use this url -: localhost:8080/topics/{id}
 					Here you should define id . eg. 1, 2...
  
